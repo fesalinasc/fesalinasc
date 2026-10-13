@@ -14,7 +14,7 @@
 
 🎓 Sou estudante de **Ciência de Dados e Inteligência Artificial na PUC-Campinas**.
 
-💼 Atualmente trabalho na **@Skeps Digital**, onde tenho contato com projetos e soluções envolvendo tecnologia, desenvolvimento e automação.
+💼 Atualmente trabalho na **Skeps Digital**, onde tenho contato com projetos e soluções envolvendo tecnologia, desenvolvimento e automação.
 
 💡 Tenho interesse em transformar problemas em soluções utilizando **programação, dados e Inteligência Artificial**.
 
